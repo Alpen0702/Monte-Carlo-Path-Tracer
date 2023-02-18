@@ -1,0 +1,4 @@
+../example-scenes-cg22\veach-mis\veach-mis.xml
+../example-scenes-cg22\veach-mis\veach-mis.obj
+../example-scenes-cg22\veach-mis
+NULL

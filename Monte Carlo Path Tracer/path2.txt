@@ -1,0 +1,4 @@
+../example-scenes-cg22\cornell-box\cornell-box.xml
+../example-scenes-cg22\cornell-box\cornell-box.obj
+../example-scenes-cg22\cornell-box
+NULL

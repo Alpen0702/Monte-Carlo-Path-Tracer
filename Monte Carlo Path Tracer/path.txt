@@ -1,0 +1,4 @@
+../example-scenes-cg22\staircase\staircase.xml
+../example-scenes-cg22\staircase\stairscase.obj
+../example-scenes-cg22\staircase
+../example-scenes-cg22\staircase
