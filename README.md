@@ -55,10 +55,11 @@ path.txt是用来引导程序找到资源文件的，资源文件打包在exampl
 ## 看看结果
 
 * veach-mis (DIRECT_RAY_PER_PIXEL = 12, INDIRECT_RAY_PER_PIXEL = 108, CONTINUE_RATIO = 0.8, MAX_SUNS = 6, RUN_TIME ≈ 17min)
-
+![veach-mis](https://github.com/Alpen0702/Monte-Carlo-Path-Tracer/blob/master/results/veach-mis%2012d%20108i%2008r%206s%20indirect%E4%BF%9D%E7%95%99direct.png)
 * cornell-box (DIRECT_RAY_PER_PIXEL = 12, INDIRECT_RAY_PER_PIXEL = 108, CONTINUE_RATIO = 0.8, RUN_TIME ≈ 56min)
-
+![cornell-box](https://github.com/Alpen0702/Monte-Carlo-Path-Tracer/blob/master/results/cornell-box%2012d%20108i%2008r.png)
 * staircase (DIRECT_RAY_PER_PIXEL = 24, INDIRECT_RAY_PER_PIXEL = 24, CONTINUE_RATIO = 0.8, MAX_SUNS = ?, RUN_TIME ≈ 1h23min)
+![staircase](https://github.com/Alpen0702/Monte-Carlo-Path-Tracer/blob/master/results/staircase%2024d%2024i%2008r.png)
 
 ## 做得好的地方
 * 用BVH树做加速结构，减少光线与世界求交用时。
